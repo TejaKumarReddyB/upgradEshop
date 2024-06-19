@@ -80,3 +80,4 @@ const ProductDetails = () => {
 };
 
 export default ProductDetails;
+/*ProductDetails.jsx*/
