@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,12 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# upgradEshop
->>>>>>> origin/main
-=======
-# upgradEcommerce
->>>>>>> d189d7d78474151111379d2dd6ed5a53af72cee7
-=======
-# upgradEcommerce website
->>>>>>> 50ef9b509218da2f4437d4fc9291d9289f64d8ce
+
