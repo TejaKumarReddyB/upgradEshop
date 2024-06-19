@@ -1,0 +1,25 @@
+.detailsParentDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.detailsDiv {
+    display: flex;
+    width: 50%;
+}
+
+.prodImage {
+    width: 40%;
+}
+
+.prodImage~div {
+    width: 60%;
+    padding-left: 50px;
+}
+
+.prodImage>img {
+    height: 300px !important;
+    width: 100%;
+}

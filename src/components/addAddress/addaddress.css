@@ -1,0 +1,23 @@
+.registerForm1 {
+    width: 400px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.registerForm1 .MuiFormControl-root {
+    margin: 10px 0;
+}
+
+.finalStep {
+    width: 60%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.finalStep>div {
+    padding: 10px;
+}
